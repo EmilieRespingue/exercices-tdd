@@ -13,3 +13,4 @@ Faites passer le test [exercice].test.js en écrivant le code nécessaire dans [
 ## Exercices 10 à ...
 
 Maintenant c'est l'inverse ! Le code est déjà écrit dans [exercice].js. Vous devez écrire les tests nécessaires dans [exercice].test.js.
+⚠️ Il peut y avoir des choses à modifier dans le code pour que les tests passent 😏

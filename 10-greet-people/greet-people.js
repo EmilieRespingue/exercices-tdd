@@ -1,4 +1,4 @@
-module.export = function greetPeople(people) {
+module.exports = function greetPeople(people) {
   let greeting = "Hello "
 
   people.forEach(function (person) {
