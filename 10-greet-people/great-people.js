@@ -1,5 +1,5 @@
 module.export = function greetPeople(people) {
-  const greeting = "Hello "
+  let greeting = "Hello "
 
   people.forEach(function (person) {
     greeting = greeting + person
