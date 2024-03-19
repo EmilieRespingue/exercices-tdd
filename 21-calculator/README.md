@@ -5,6 +5,7 @@
 * Vous avez le droit d'utiliser chatGPT ou autre IA, mais évitez de copier-coller le code qu'il vous donne.
 * Faites une tâche à la fois. L'idée est d'avancer petit à petit, et de comprendre les concepts au fur et à mesure. Vous pouvez même faire chaque kata sur plusieurs jours !
 * Testez uniquement les entrées valides. Il n'y a pas besoin de tester les entrées invalides pour ce kata.
+   Créez un repo git pour chacun de ces Katas, afin de pouvoir faire du code review !
 
 ## Let's go
 
@@ -27,7 +28,5 @@ Si plusieurs nombres négatifs sont passés, montrez-les tous dans le message d'
 ### Step 6: Ignorer les grands nombres
 
 Les nombres supérieurs à 1000 doivent être ignorés, et faire repasser le compteur à zéro. Par exemple, 2 + 1001 = 2
-
-## General requirements
 
 Credits to [Roy Osherove](http://osherove.com/tdd-kata-1) for the original idea.
